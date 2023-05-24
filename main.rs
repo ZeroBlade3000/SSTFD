@@ -4,7 +4,7 @@ fn is_power_of_two(num: u32) -> bool {
     }
     num & (num - 1) == 0
 }
-
+//SSF
 // Example usage:
 fn main() {
     let numbers = [1, 2, 4, 8, 16, 32, 64, 128, 255];
